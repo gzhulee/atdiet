@@ -1,0 +1,2 @@
+2014-11-11 
+添加 CustomAnimation 自定义动画类
